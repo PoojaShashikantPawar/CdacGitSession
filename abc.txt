@@ -1,2 +1,0 @@
-This is commit change
-edit a txt inside the local repo
